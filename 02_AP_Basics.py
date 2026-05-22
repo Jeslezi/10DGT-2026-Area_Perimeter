@@ -7,6 +7,7 @@ greeting = "Hello World"
 fav_num = 7
 num_string = "5"
 
-print(fav_num*2)
-print(num_string*5)
+#Constants are capital
+PI = 3.14
 
+a_01_my_mum = 7
